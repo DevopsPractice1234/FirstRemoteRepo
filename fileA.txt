@@ -1,2 +1,2 @@
 this is file A.
-changes made - version 1
+changes made - version 2
