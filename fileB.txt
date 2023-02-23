@@ -1,1 +1,2 @@
 this is file B.
+This is a change to push to remote repo.
